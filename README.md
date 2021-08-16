@@ -1,3 +1,5 @@
 # Python for Machine Learning
 
-Python is one of the biggest languages used by Data Scientists to build machine learning. This repo contains most important packages and sample machine learning algorithm used to classify and cluster sample datasets. 
+Python is one of the biggest programming languages that used by Data Scientists to build machine learning models. This repo contains most important packages and simple machine learning algorithms used to classify and cluster sample music dataset.
+
+Dataset detail: music dataset is about the type of music genere preferences based few demographic information, such as age and sex. The dataset is mock data and has only few datapoints.
